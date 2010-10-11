@@ -1,4 +1,4 @@
-(ns markup-tests
+(ns markup-test
   (:use clojure.test)
   (:use midje.sweet)
   (:use markup :reload-all))
